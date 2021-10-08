@@ -13,8 +13,7 @@ You can view the notebook in static form by clicking the following image:
 
 You can view the notebook in dynamic form by clicking the following image:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrius-kor/numpy-random/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fandrius-kor%2Fnumpy-random%2Fblob%2Fmain%2Fnumpy-random.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrius-kor/numpy-random/HEAD?labpath=numpy-random.ipynb)
 
 ## How to run the notebook
 
